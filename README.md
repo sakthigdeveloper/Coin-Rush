@@ -9,7 +9,8 @@ START MENU👇🏻
 ## Installation
 1. Download the executable file
 2. Double-click `Coin Rush V2.2.exe` to start the application.
-3. Follow on-screen instructions to begin your journey.
+3. Or play it live on Web Demo.sakthiexe.itch.io/Coin-rush 
+4. Follow on-screen instructions to begin your journey.
 
 PAUSE MENU👇🏻   
 ![image alt](https://github.com/sakthigdeveloper/Coin-Rush/blob/main/Pause%20Menu.png?raw=true)
